@@ -5,7 +5,7 @@ import (
 	"log"
 	"sort"
 
-	"github.com/khulnasoft-labs/go-gem-version"
+	"github.com/khulnasoft-lab/go-gem-version"
 )
 
 func main() {

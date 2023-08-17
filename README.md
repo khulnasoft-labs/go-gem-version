@@ -1,8 +1,8 @@
 # go-gem-version
 
-![Test](https://github.com/khulnasoft-labs/go-gem-version/workflows/Test/badge.svg?branch=main)
-[![Go Report Card](https://goreportcard.com/badge/github.com/khulnasoft-labs/go-gem-version)](https://goreportcard.com/report/github.com/khulnasoft-labs/go-gem-version)
-![GitHub](https://img.shields.io/github/license/khulnasoft-labs/go-gem-version)
+![Test](https://github.com/khulnasoft-lab/go-gem-version/workflows/Test/badge.svg?branch=main)
+[![Go Report Card](https://goreportcard.com/badge/github.com/khulnasoft-lab/go-gem-version)](https://goreportcard.com/report/github.com/khulnasoft-lab/go-gem-version)
+![GitHub](https://img.shields.io/github/license/khulnasoft-lab/go-gem-version)
 
 go-gem-version is a library for parsing RubyGems versions and version constraints, and verifying versions against a set of constraints.
 go-gem-version can sort a collection of versions properly, handles prerelease versions, etc.
